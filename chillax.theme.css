@@ -70,7 +70,7 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "King";
+  --user-name: "Chris";
   --font-name: Poppins;
   --font-size: 13px;
      
@@ -94,9 +94,9 @@
 
 
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolor:	  251, 84, 84;	
+  --accentcolor:	  185, 133, 212;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #fb5454;
+  --accentcolorV2:     #b985d4;
      
      
 /*settings modal root*/
